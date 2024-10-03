@@ -1,6 +1,14 @@
-# PASCAL'S TRIANGLE
-In this series, i attempt to create a function that returns a list of lists representing
-the Pascal's Triangle of `n`.
-The function:
-  - returns an empty list if `n<=0`
-  - assumes that `n` will always be an integer.
+Curriculum <br>
+**Short Specializations** <br>
+
+# 0x00. Pascal's Triangle
+
+```Algorithm``` ```Python```
+
+#### Concepts
+
+_For this project, look at these concepts:_
+
+* [Technical Interview](https://www.alx-intranet.hbtn.io/concepts/100005)
+
+## General Learning
